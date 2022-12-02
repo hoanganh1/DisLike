@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/packages/Newtonsoft.Json.13.0.1/lib/net40/Newtonsoft.Json.xml
+*.xml
+*.dll
+/.vs/GPM_View/FileContentIndex
+/GPM_View/bin/Debug/data
+/GPM_View/obj/Debug
+/GPM_View/bin/Debug
+/.vs/GPM_View/v17
+/packages
+/GPM_View/bin
